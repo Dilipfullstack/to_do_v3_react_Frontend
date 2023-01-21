@@ -1,0 +1,33 @@
+body {
+    background-color: #BBC8D1;
+}
+
+.header {
+    color: white;
+}
+
+.themed-grid-col {
+    background-color: #EDC1DA;
+    border: 1px solid palevioletred;
+    width: 400px;
+    margin: auto;
+    margin-top: 5px;
+    padding: 5px;
+    padding-left: 20px;
+}
+
+.add-task-button {
+    background-color: #8AB9D3;
+}
+
+.input-field {
+    margin: auto;
+}
+
+.btn-space {
+    text-align: left;
+}
+
+li {
+    list-style: none;
+}
